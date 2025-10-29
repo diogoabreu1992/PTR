@@ -2,6 +2,7 @@
 #define UTILS_H
 
 #define PI  3.141592653589793238462643
+#define R 0.60
 
 static inline double intervalo_tempo(struct timespec *inicio, struct timespec *fim) {
     struct timespec aux;
