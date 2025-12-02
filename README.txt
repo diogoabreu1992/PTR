@@ -6,7 +6,7 @@ no terminal:
 
     make
 
-    ./program 
+    ./programa 
 
     (NO PROGRAMA)INFORME OS VALORES DE A1 E A2:
     3 3
@@ -18,7 +18,7 @@ no terminal:
         linearizacao.txt
         modelref.txt
         startref.txt
-        robo.txt
+        robo.txtpython
         interface.txt
 
     python3 analise.py //FAZ A ANALISE DOS DADOS DAS THREADS E SEUS JITTERS, IMPRIME OS RESULTADOS NO TERMINAL
